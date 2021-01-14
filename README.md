@@ -1,8 +1,7 @@
 # linked-list-code-c-
 linked list code using structure in c++
 //---------------------------------------********************LINKED LIST IN C++************************************---------------------------------------------------
-//created by AMAN KHAIRWAR
-
+//created by AMAN KHAIRWAR   
 #include<iostream>
 using namespace std;
 struct node
